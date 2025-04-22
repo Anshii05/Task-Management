@@ -1,0 +1,71 @@
+﻿CREATE TABLE `users` (
+  `user_id` int(11) NOT NULL AUTO_INCREMENT,
+  `first_name` varchar(100) NOT NULL,
+  `last_name` varchar(100) NOT NULL,
+  `email` varchar(100) NOT NULL,
+  `password` varchar(255) NOT NULL,
+  `type` varchar(50) DEFAULT NULL,
+  `created_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `created_by` varchar(255) DEFAULT NULL,
+  `updated_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `updated_by` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`user_id`),
+  UNIQUE KEY `email` (`email`)
+) ;
+
+
+CREATE TABLE `tasks` (
+  `task_id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(255) DEFAULT NULL,
+  `description` text,
+  `due_date` date DEFAULT NULL,
+  `status` int(11) NOT NULL,
+  `remarks` text,
+  `created_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `created_by_name` varchar(255) DEFAULT NULL,
+  `created_by_id` int(11) DEFAULT NULL,
+  `updated_by_name` varchar(255) DEFAULT NULL,
+  `updated_by_id` int(11) DEFAULT NULL,
+  `assigned_user_ids` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`task_id`)
+) ;
+
+
+CREATE TABLE `assignedtasks` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) NOT NULL,
+  `task_id` int(11) NOT NULL,
+  `title` varchar(255) DEFAULT NULL,
+  `description` text,
+  `due_date` date DEFAULT NULL,
+  `status` int(11) NOT NULL,
+  `remarks` text,
+  `created_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_on` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `created_by_name` varchar(255) DEFAULT NULL,
+  `created_by_id` int(11) DEFAULT NULL,
+  `updated_by_name` varchar(255) DEFAULT NULL,
+  `updated_by_id` int(11) DEFAULT NULL,
+  `user_name` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ;
+
+
+INSERT INTO `users` (
+  `first_name`, 
+  `last_name`, 
+  `email`, 
+  `password`, 
+  `type`, 
+  `created_on`,
+  `created_by`
+) VALUES (
+  'John', 
+  'Doe', 
+  'john.doe@example.com', 
+  '123456', 
+  'Admin', 
+  NOW(), 
+  'System'
+);

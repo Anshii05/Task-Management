@@ -1,0 +1,48 @@
+D:\greatdeveloper\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\greatdeveloper\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\greatdeveloper\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\greatdeveloper\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\greatdeveloper\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\greatdeveloper\Core\bin\Debug\net8.0\Core.deps.json
+D:\greatdeveloper\Core\bin\Debug\net8.0\Core.dll
+D:\greatdeveloper\Core\bin\Debug\net8.0\Core.pdb
+D:\greatdeveloper\Core\obj\Debug\net8.0\Core.dll
+D:\greatdeveloper\Core\obj\Debug\net8.0\refint\Core.dll
+D:\greatdeveloper\Core\obj\Debug\net8.0\Core.pdb
+D:\greatdeveloper\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\bin\Debug\net8.0\Core.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\bin\Debug\net8.0\Core.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\Core\obj\Debug\net8.0\ref\Core.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\bin\Debug\net8.0\Core.deps.json
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\bin\Debug\net8.0\Core.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\bin\Debug\net8.0\Core.pdb
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\Core.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\Core.pdb
+D:\Projects\TaskManagerAssignment\TaskAssingment\Core\obj\Debug\net8.0\ref\Core.dll

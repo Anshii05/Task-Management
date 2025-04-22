@@ -1,0 +1,68 @@
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\greatdeveloper\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\greatdeveloper\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\greatdeveloper\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\greatdeveloper\ServiceLayer\bin\Debug\net8.0\Core.dll
+D:\greatdeveloper\ServiceLayer\bin\Debug\net8.0\Datalayer.dll
+D:\greatdeveloper\ServiceLayer\bin\Debug\net8.0\Core.pdb
+D:\greatdeveloper\ServiceLayer\bin\Debug\net8.0\Datalayer.pdb
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\greatdeveloper\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Core.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Datalayer.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Core.pdb
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Datalayer.pdb
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+C:\Users\anshika johari\Desktop\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Core.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Datalayer.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Core.pdb
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Datalayer.pdb
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+C:\Users\hp\OneDrive\Desktop\TaskManagementApp\TaskManagementApp\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Core.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Datalayer.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Core.pdb
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\bin\Debug\net8.0\Datalayer.pdb
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\Projects\TaskManagerAssignment\TaskAssingment\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
