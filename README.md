@@ -68,7 +68,23 @@ individual user-task relations including status and due date.
 ![image](https://github.com/user-attachments/assets/8ef840e9-440c-4c38-a75e-86e39e139ecb)
 
 
-2.3 Whether Code first or DB First approach has been used and why?
+2.3 Documentation of Indexes used
+![image](https://github.com/user-attachments/assets/bea38d02-e274-4dcf-aaca-78b6e28cab89)
+
+-Primary Keys:
+Each table includes a primary key index to uniquely identify each record
+and optimize access.
+
+-Unique Key on email:
+Ensures that no two users can register with the same email, which is
+critical for authentication and user uniqueness
+
+-Foreign Keys (in assignedtasks):
+The user_id and task_id fields serve as foreign keys that link
+assignedtasks to the users and tasks tables respectively.
+
+
+2.4 Whether Code first or DB First approach has been used and why?
 In this project, we have used the Database First approach. This means that we
 started by creating the database first through a script. After the database was
 created, we generated the corresponding C# classes based on the existing tables.
@@ -119,7 +135,56 @@ modals, and it ensures the UI looks good on all devices. Bootstrap also
 saves time by reducing the need to write custom CSS from scratch.
 
 
-5. For running the provided code in your system:-
+5. Build and install
+Step 1: Tools Installation
+• Install Visual Studio
+o Ensure .NET Desktop Development workload is selected.
+• Install MySQL Workbench
+o Set up MySQL Server and access via MySQL Workbench for database
+operations.
+
+Step 2: Create New Project in Visual Studio
+• Open Visual Studio
+• Go to File > New > Project
+• Select ASP.NET Core Web App (Model-View-Controller) or ASP.NET Core
+Web App (Razor Pages)
+• Name your project: TaskManager
+• Select appropriate .NET version (.NET 6 or 7 recommended)
+
+Step 3: Create MySQL Database & Tables
+• Open MySQL Workbench
+• Create database
+• Create Tables users, tasks, and assignedtasks
+• Insert Admin User
+• All the queries are provided in scripts folder in datalayer
+
+Step 4: Add Connection String to app.config(update the userid and password)
+
+Step 5: Project Structure – Create Layers and other razor pages
+• Core Layer:
+o Models: User, Task, AssignedTask
+o Enums: TaskStatus
+• Data Layer (Repositories):
+o UserRepository, TaskRepository, AssignedTaskRepository
+o Handles all CRUD operations
+• Service Layer:
+o Implements business logic
+o Connects the UI with repositories
+
+Step 6: Inject Configuration in Program.cs
+builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<TaskService>();
+builder.Services.AddScoped<TaskRepository>();
+builder.Services.AddScoped<AssignedTaskService>();
+builder.Services.AddScoped<AssignedTaskRepository>();
+
+Step 7: Install Required Dependencies
+Use NuGet Package Manager to install packages like:
+• EnterpriseLibrary.Data.NetCore
+• MySql.Data
+
+For running the provided code in your system:-
 Step 1: Install Required Tools
 • Install Visual Studio
 o Make sure to select the .NET Desktop Development workload
@@ -127,12 +192,10 @@ during installation.
 • Install MySQL Workbench
 o Set up MySQL Server and use MySQL Workbench to manage the
 database.
-
 Step 2: Open the Project
 • Download the ZIP folder containing the project files.
 • Extract all files.
 • Open the solution in Visual Studio.
-
 Step 3: Set Up MySQL Database
 • Create the database and tables in MySQL Workbench.
 • Execute the provided SQL scripts to insert an admin user.
@@ -144,21 +207,51 @@ INSERT INTO `users` (
 VALUES ('John', 'Doe', 'john.doe@example.com', '123456', '0', NOW(),
 'System');
 (All scripts are available in the Scripts folder inside the DataLayer project.)
-
 Step 4: Configure the Connection String
 • Open app.config.
 • Update the connection string to match your MySQL server credentials.
-
 Step 5: Install Dependencies
 Use NuGet Package Manager to install the following packages:
 • EnterpriseLibrary.Data.NetCore – for data access functionality.
 • MySql.Data – for connecting to the MySQL database.
-
 Step 6: Build and Run
 • Build the project in Visual Studio.
 • Run the application.
 You should now be able to log in using the admin credentials added in the
 database setup step.
+
+
+6. Results
+A fully functional Task Management System was successfully developed using
+ASP.NET Core with Razor Pages and MySQL.
+Implemented core features including:
+• User management (View,Add, Edit, Delete)
+• Task assignment to one or more users
+• Users updating their task status
+• Admin also accessing the tasks of all the users and managing task status
+1) Login page
+![image](https://github.com/user-attachments/assets/0cad90bb-f475-4ae0-86eb-e29bcecac9ae)
+2) Dashboard
+![image](https://github.com/user-attachments/assets/6ddec44e-0d3d-4850-bc87-36650cd034cd)
+3) Functionalities when user is logged in
+![image](https://github.com/user-attachments/assets/04428735-402c-4ad4-8625-b236baef4b99)
+![image](https://github.com/user-attachments/assets/45f52c0f-34f2-4eb0-8bf2-c8667514a416)
+Users can view their assigned tasks and change the status to not started, in
+progress, and completed.
+4) Functionalities when admin is logged in
+![image](https://github.com/user-attachments/assets/15261567-26a5-4471-9910-c91cd6d547d0)
+Admin can Add, update and delete user in User List tab.
+![image](https://github.com/user-attachments/assets/d5173c9a-1aa1-4f3f-91c5-1211a121b7fc)
+![image](https://github.com/user-attachments/assets/1135151a-7bc0-400e-99cf-40735716dcc8)
+Admin can add, update and delete task details assigned to users in Manage Task
+tab.
+![image](https://github.com/user-attachments/assets/ae797f2e-1508-4cdd-a3d5-138a9f4c4bac)
+Admin can view his assigned tasks here and also update status in this My Task
+tab.
+![image](https://github.com/user-attachments/assets/7c66f1ca-0a95-49f7-a6e5-a60396eb7b51)
+In this Assigned Tasks tab admin can view all the users assigned tasks and can
+manage their status.
+![image](https://github.com/user-attachments/assets/8bfcf776-556b-49a4-afca-7d90f9a92bd8)
 
 
 Below is the link for full demo video of this web application:-
