@@ -255,5 +255,4 @@ manage their status.
 
 
 Below is the link for full demo video of this web application:-
-https://drive.google.com/drive/folders/1uxzGz4l5VW7WTRtnHBwqMa4rQs9_
-mmkZ
+https://drive.google.com/drive/folders/1uxzGz4l5VW7WTRtnHBwqMa4rQs9_mmkZ
