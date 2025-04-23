@@ -65,7 +65,7 @@ INSERT INTO `users` (
   'Doe', 
   'john.doe@example.com', 
   '123456', 
-  'Admin', 
+  '0', 
   NOW(), 
   'System'
-);
+  );
